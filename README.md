@@ -6,7 +6,7 @@ Each project is designed with a focus on clean architecture, component reusabili
 
 ---
 
- ## My stack 🧰
+ ## Tech stack 🧰
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,webpack,babel,jest,postman,vercel,git,github,vscode" alt="Tech Stack" />
