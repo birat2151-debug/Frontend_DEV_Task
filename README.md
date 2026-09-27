@@ -14,6 +14,20 @@ Each project is designed with a focus on clean architecture, component reusabili
 
 ---
 
+## 📑 Projects Directory
+
+| # | Project Name | Directory | Core Concepts & Highlights |
+| :-: | :--- | :--- | :--- |
+| **01** | **Personal Portfolio** | [`/1.my-portfolio`](./1.my-portfolio) | Responsive single-page layout, modular sections, semantic HTML, modern CSS styling |
+| **02** | **Student Information Portal** | [`/2.student-information`](./2.student-information) | Props-driven architecture, CGPA sorting, real-time search & filtering, performance tiers, image fallbacks |
+| **03** | **Farm Employee Directory** | [`/3.employee-directory`](./3.employee-directory) | State management (`useState`), Event handling, Conditional rendering, CRUD operations, Department filters |
+| **04** | **Weather Dashboard** | [`/4.weather-dashboard`](./4.weather-dashboard) | API Integration (`fetch`), Async/Await, `useEffect`, Error Handling, OpenWeatherMap API |
+| **05** | **Online Shopping Cart** | [`/5.online-shopping-cart`](./5.online-shopping-cart) | Global State Management, `useReducer`, Context API, Dynamic totals & tax computation |
+| **06** | **Task Manager with Routing** | [`/6.task-manager-with-routing`](./6.task-manager-with-routing) | React Router (`react-router-dom`), Protected Routes, URL Parameters (`useParams`) |
+| **07** | **Authentication System** | [`/7.implement_authentication_system`](./7.implement_authentication_system) | Simulated JWT (RFC 7519), Route Protection, Password Strength Analysis, Remember User (Local/Session) |
+
+---
+
 ## 🌟 Project Overviews
 
 ### 1. [Personal Portfolio Website](./1.my-portfolio)
